@@ -1,7 +1,7 @@
 name: Terraform Azure VM
 
 on:
-  push:
+  p:
     branches:
       - main
 
